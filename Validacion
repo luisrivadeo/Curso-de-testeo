@@ -1,0 +1,6 @@
+dim casa as string
+if casa = "Una Planta" then
+Label1.text = "Eduificio de una sola planta"
+else
+Label1.text = "Eduificio de más una sola planta"
+end if
